@@ -1,0 +1,7 @@
+<ModOps>
+  <ModOp Type="add" GUID='100415' Path="/Values/ItemContainer">
+    <InitSocketItems>
+      <Item>191817</Item>
+    </InitSocketItems>
+  </ModOp>
+</ModOps>
